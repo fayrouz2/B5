@@ -2,3 +2,10 @@ ingredients/
 *.zip
 *100k*.tsv
 output/
+
+# NLP models & embeddings
+bert_model/
+glove_data/
+
+# Jupyter
+.ipynb_checkpoints/
